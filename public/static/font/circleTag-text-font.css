@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "canger";
+    src: url('circleTag-text-font.ttf') format('truetype');
+}
+
+/* 这下面两款方正字体为 个人非商用 */
+@font-face {
+    font-family: "FZLanTYJW_Zhun";
+    src: url('FZLanTYJW_Zhun.TTF') format('truetype');
+}
+
+@font-face {
+    font-family: "FZLanTYJW_Xian";
+    src: url('FZLanTYJW_Xian.TTF') format('truetype');
+}
+
+@font-face {
+    font-family: "FZYDCHJW";
+    src: url('FZYDCHJW.TTF') format('truetype');
+}
